@@ -1,0 +1,6 @@
+framework module Pods_ImagePop {
+  umbrella header "Pods-ImagePop-umbrella.h"
+
+  export *
+  module * { export * }
+}
